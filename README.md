@@ -1,4 +1,4 @@
-#  Predicting Forest Cover Loss Using Multiple Linear Regression
+# 🌲 Predicting Forest Cover Loss Using Multiple Linear Regression
 
 ## Overview
 This project applies **Multiple Linear Regression (MLR)** to predict **global forest cover loss**
@@ -74,4 +74,3 @@ predicting-forest-cover-loss-mlr/
 ├── results/
 ├── requirements.txt
 └── README.md
-
